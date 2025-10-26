@@ -16,6 +16,5 @@ _Кириллическая версия шрифта Libre Caslon Condensed. В
 ![image](https://github.com/user-attachments/assets/dfa5255b-c5ce-4665-98b8-e62d609d0434)
 ![image](https://github.com/user-attachments/assets/d32c151c-5e30-42a4-be11-9ccd155a326e)
 ![image](https://github.com/user-attachments/assets/74995c07-1aef-42a5-9e19-57cd2ebf8386)
-![image](https://github.com/user-attachments/assets/33b07f67-ba7a-4f02-b783-b76944e252d6)
 
 
