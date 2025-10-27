@@ -1,6 +1,9 @@
 # Libre Caslon Cyrillic Condensed
+
+_Eng:_
 A cyrillic version of the [Libre Caslon Condensed typeface](https://github.com/ertekinno/libre-caslon-condensed). Just a couple of nights and I have added cyrillic glyphs for RU, BY, UA. Didn't bother with a proper kerning. Just fixed obvious pairs.
 
+_Ru:_
 Кириллическая версия шрифта Libre Caslon Condensed. Все делал за пару вечеров. Кернинг фиксил только там, где бросалось в глаза.
 
 - **Scripts:** Latin, Cyrillic
@@ -12,7 +15,7 @@ A cyrillic version of the [Libre Caslon Condensed typeface](https://github.com/e
 
 ![Screenshot 2025-10-27 at 15 40 36](https://github.com/user-attachments/assets/0665156f-19b1-42de-982e-e717036d2191)
 <img width="2624" height="1472" alt="image" src="https://github.com/user-attachments/assets/061f452c-7fe3-4e6a-add6-47e87f0e255c" />
-![image](https://github.com/user-attachments/assets/06de939e-10a9-49f1-afdd-31e856ce253b)
+![Screenshot 2025-10-27 at 16 13 49](https://github.com/user-attachments/assets/9861390d-167f-4794-b1fd-6392ff269e06)
 ![image](https://github.com/user-attachments/assets/37ce7870-a8bb-4eee-bfed-cf5f7a72e551)
 ![image](https://github.com/user-attachments/assets/dfa5255b-c5ce-4665-98b8-e62d609d0434)
 ![image](https://github.com/user-attachments/assets/d32c151c-5e30-42a4-be11-9ccd155a326e)
