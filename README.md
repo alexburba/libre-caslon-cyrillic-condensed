@@ -1,16 +1,17 @@
 # Libre Caslon Cyrillic Condensed
-A cyrillic version of the Libre Caslon Condensed typeface (https://github.com/ertekinno/libre-caslon-condensed)
+A cyrillic version of the [Libre Caslon Condensed typeface](https://github.com/ertekinno/libre-caslon-condensed). Just a couple of nights and I have added cyrillic glyphs for RU, BY, UA. Didn't bother with a proper kerning. Just fixed obvious pairs.
 
-_Кириллическая версия шрифта Libre Caslon Condensed. Все делал за пару вечеров. Кернинг фиксил только там, где бросалось в глаза._
+Кириллическая версия шрифта Libre Caslon Condensed. Все делал за пару вечеров. Кернинг фиксил только там, где бросалось в глаза.
 
-- **Languages:** Russian, Latin
+- **Scripts:** Latin, Cyrillic
 - **Сyrillic:** RU, BY, UA
 - **Styles:** Regular (Italic in plans)
 - **Kerning:** 5%
 - **Plans**: a proper kerning for all the cyrillics someday
 - **License:** SIL OFL 1.1
 
-![image](https://github.com/user-attachments/assets/39914e98-54ec-4966-809d-da5bb806772a)
+![Screenshot 2025-10-27 at 15 40 36](https://github.com/user-attachments/assets/0665156f-19b1-42de-982e-e717036d2191)
+<img width="2624" height="1472" alt="image" src="https://github.com/user-attachments/assets/061f452c-7fe3-4e6a-add6-47e87f0e255c" />
 ![image](https://github.com/user-attachments/assets/06de939e-10a9-49f1-afdd-31e856ce253b)
 ![image](https://github.com/user-attachments/assets/37ce7870-a8bb-4eee-bfed-cf5f7a72e551)
 ![image](https://github.com/user-attachments/assets/dfa5255b-c5ce-4665-98b8-e62d609d0434)
