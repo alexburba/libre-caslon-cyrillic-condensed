@@ -13,7 +13,7 @@ _Ru:_
 - **Plans**: a proper kerning for all the cyrillics someday
 - **License:** SIL OFL 1.1
 
-![Screenshot 2025-10-27 at 15 40 36](https://github.com/user-attachments/assets/0665156f-19b1-42de-982e-e717036d2191)
+![image](https://github.com/user-attachments/assets/1a8659dd-813c-434a-9f4d-6e446dce3c1d)
 <img width="2624" height="1464" alt="image" src="https://github.com/user-attachments/assets/8aa962d0-b981-4785-8d48-0c15ea8659d6" />
 ![image](https://github.com/user-attachments/assets/37ce7870-a8bb-4eee-bfed-cf5f7a72e551)
 ![Screenshot 2025-10-27 at 16 13 49](https://github.com/user-attachments/assets/9861390d-167f-4794-b1fd-6392ff269e06)
